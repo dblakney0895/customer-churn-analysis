@@ -68,4 +68,4 @@ After applying class weighting and proper preprocessing, recall improved to 78%,
 ![Confusion Matrix](screenshots/confusion_matrix.png)
 
 ### ROC Curve
-![ROC Curve](screenshots/roc)
+![ROC Curve](screenshots/roc_curve)
