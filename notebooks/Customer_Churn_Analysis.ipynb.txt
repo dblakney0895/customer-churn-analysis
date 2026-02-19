@@ -1,3 +1,16 @@
+# Customer Churn Prediction & Retention Risk Analysis
+
+## Executive Summary
+
+This project analyzes customer churn behavior using logistic regression modeling and business-focused evaluation techniques. The objective is to identify high-risk customers and provide actionable retention strategies.
+
+The final model achieved:
+- Accuracy: 74.4%
+- Churn Recall: 78%
+- AUC Score: 0.849
+
+By prioritizing recall over raw accuracy and addressing class imbalance, the model significantly improves churn detection performance and provides measurable business value.
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
